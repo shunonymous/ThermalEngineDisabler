@@ -34,6 +34,8 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
+/system/vendor/bin/thermal-engine
+/system/vendor/bin/thermal-engine-v2
 "
 
 ##########################################################################################
